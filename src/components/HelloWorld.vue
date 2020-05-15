@@ -1,25 +1,13 @@
 <template>
-  <div class="hello">
-    <h1>{{ msg }}</h1>
+  <div>
+    <h1>hello</h1>
   </div>
 </template>
 
 <script lang="ts">
 import Vue from 'vue'
 
-export default Vue.extend({
-  props: {
-    msg: {
-      type: String,
-      default: '',
-    },
-  },
-  methods: {
-    aa() {
-      console.log('aa')
-    },
-  },
-})
+export default Vue.extend({})
 </script>
 
 <style scoped lang="scss">
