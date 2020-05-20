@@ -1,4 +1,4 @@
-# vue-ts-test
+# vue-ts-boilerplate
 
 ## Project setup
 ```
